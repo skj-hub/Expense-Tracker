@@ -7,6 +7,8 @@ import org.hibernate.query.Query;
 
 import com.entity.User;
 
+//comment
+
 public class UserDao {
 
 	private SessionFactory factory = null;
