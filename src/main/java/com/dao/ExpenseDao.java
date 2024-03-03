@@ -12,6 +12,7 @@ import com.entity.Expense;
 import com.entity.User;
 //expense dao
 //another comment
+//one more comment
 public class ExpenseDao {
 	private SessionFactory factory = null;
 	private Session session = null;
